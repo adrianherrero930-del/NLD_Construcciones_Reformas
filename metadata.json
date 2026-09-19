@@ -1,0 +1,8 @@
+{
+  "name": "Remix Habita Pro · Arquitectura y Reformas de Lujo",
+  "description": "Estudio de arquitectura interior, reformas integrales de lujo y constructora con portafolio interactivo antes/después, calculador de presupuesto en vivo y agenda de asesoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
